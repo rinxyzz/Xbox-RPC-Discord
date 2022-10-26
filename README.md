@@ -45,6 +45,8 @@ Wanna contribute on adding games with pictures and backgrounds? Now you can! Jus
 People that helped me creating the app!
 - Klaudex17 (Games pictures and design)
 - J_Felipe (Ideas for the app)
+- ! Kyousuke
+- Elaina
 
 People who contributed adding games!
 
