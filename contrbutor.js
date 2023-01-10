@@ -4,7 +4,7 @@
 } while (condition);"mark",
     "users"array.forEach(element => {
         :
-    });"Eleina",
+    });"Elaina",
     "users"do {
 	:
 } while (condition);"Kyousuke",
